@@ -8,8 +8,9 @@ Attualmente sto dedicando il mio tempo allo studio di Javascript e Git.
 Tutte le informazioni su chi sono, quali sono le mie competenze e una vetrina dei miei progetti sono presenti nel mio sito-porfolio:
 **https://gabrieleangius.netlify.app/index.html**
 
-<hr>
+---
 
 Interessato a collaborazioni o assunzioni?
-<a href="mailto:gabrieleangius@protonmail.com">Contattami via mail!</a></p>
+[Contattami via mail!](mailto:gabrieleangius@protonmail.com)
 
+<img src="https://gabrieleangius.netlify.app/imgs/logo/logoMinimBlack.svg" width="50" height="auto" alt="Gabriele Angius personal logo" title="Gabriele Angius personal logo">
