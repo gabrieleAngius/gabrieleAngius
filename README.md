@@ -1,7 +1,7 @@
-# 👋 Ciao, sono Gabriele Angius:
-**Designer e Front-end developer**
+# 👋 Hello, I'm Gabriele Angius:
+**Front-end developer and design enthusiast **
 
-Da sempre sono attratto ed affascinato dalla tecnologia e da tutto ciò che le ruota intorno.
+My main open source project is [figma-to-morfeo widget](https://github.com/VLK-STUDIO/figma-to-morfeo)
 
 ---
 
